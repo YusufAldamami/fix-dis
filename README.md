@@ -48,8 +48,7 @@ Washington-EV-Capstone/
 ├── presentation/ # Final PPT
 ├── README.md 
 ├── requirements.txt 
-├── LICENSE 
-└── .gitignore
+└── LICENSE
 
 
 ## Future Improvements
